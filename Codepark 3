@@ -1,0 +1,19 @@
+nome = "José Almeida da Silva"
+print(nome)
+print(type(nome))
+
+CPF = 12345678900
+print(CPF)
+print(type(CPF))
+
+RG = 9517530
+print(RG)
+print(type(RG))
+
+Altura = 1,78
+print(Altura)
+print(type(Altura))
+
+Endereco = "Rua A, 380 – Centro – Recife/PE"
+print(Endereco)
+print(type(Endereco))
